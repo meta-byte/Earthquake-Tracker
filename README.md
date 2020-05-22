@@ -19,6 +19,7 @@ This web application allows a user to search for earthquake data for a specific 
 | Bootstrap CSS Framework | Used Bootstrap to style                               |
 | USGS Earthquake API | USGS API used to retrieve earthquake data that was rendered to display event data |
 |Google Maps API| Google maps API allowed us to embed a map we used to display a marker for each earthquake event and the user input search location |
+|Auth0| Auth0 was used to provide user authentication so that data was presented specific to the user.|
 
 
 ## How to use
