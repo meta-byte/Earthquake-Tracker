@@ -17,9 +17,7 @@ This web application allows a user to search for earthquake data for a specific 
 | ------------- | -------------------------------------------------------------------------------------------------------- |
 | React JS | Built using react
 | Bootstrap CSS Framework | Used Bootstrap to style                               |
-| Javascript    | Used Javascript to update main index.html with resort weather information, recent tweets and a google map. |
 | USGS Earthquake API | USGS API used to retrieve earthquake data that was rendered to display event data |
-
 |Google Maps API| Google maps API allowed us to embed a map we used to display a marker for each earthquake event and the user input search location |
 
 
